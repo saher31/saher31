@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Saher  
 
-<!--
-**saher31/saher31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **AI & Technology**  
+💡 I enjoy learning new things and building useful projects.  
+🧠 Interested in **Machine Learning** and **Deep Learning**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack  
+- Python | TensorFlow | PyTorch | Keras | Git  
+- Data Science | ML | DL
+
+---
+
+### 📌 What I’m Working On  
+- AI projects & experiments  
+- Improving my technical skills  
+
+---
+
+### 📫 Find Me Here  
+- 💼 [LinkedIn](www.linkedin.com/in/saher-elshewikh)
