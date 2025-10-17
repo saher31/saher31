@@ -19,4 +19,4 @@
 ---
 
 ### 📫 Find Me Here  
-- 💼 [LinkedIn](www.linkedin.com/in/saher-elshewikh)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saher-elshewikh)
