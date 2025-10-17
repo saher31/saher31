@@ -7,14 +7,22 @@
 ---
 
 ### 🧰 Tech Stack  
-- Python | TensorFlow | PyTorch | Keras | Git  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 - Data Science | ML | DL
 
 ---
 
-### 📌 What I’m Working On  
-- AI projects & experiments  
-- Improving my technical skills  
+## 🚀 Featured Projects
+- 🧠 [MarketMind](#) — Recommender System idea for small businesses.  
+- 📝 [LSTM Word Predictor](#) — Predicting next word using Deep Learning.
+
+---
+
+💬 I’m passionate about using AI to solve real-world problems.
 
 ---
 
